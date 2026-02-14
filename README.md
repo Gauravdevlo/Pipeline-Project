@@ -4,7 +4,7 @@ A modern visual pipeline builder with drag-and-drop functionality, real-time val
 
 ## 🎥 Demo Video
 
-[Click to Watch Demo](https://github.com/Gauravdevlo/Pipeline-Project/releases/download/v1.04/Gourav_Yadav_screenrecording.mp4)
+[Click to Watch Demo](https://github.com/Gauravdevlo/Pipeline-Project/blob/main/Gourav_Yadav_screenrecording.mp4)
 
 > **Note:** Replace the video URL above with your actual video. To add video to GitHub:
 > 1. Edit this README on GitHub
